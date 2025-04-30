@@ -79,15 +79,6 @@ FROM repeat_orders;
 
 *Calculates the customer retention rate by identifying customers with repeat orders.*
 
-## Visualizations
-
-### SQL Query Snippets
-
-To enhance readability and presentation, SQL queries were visualized using [Snappify](https://snappify.io/). Below is an example snippet:
-
-![SQL Query Snippet](https://github.com/shubham2182/Alt-Mobility-Assignment/blob/main/sql_query_snippet.png)
-
-*Note: Replace the above image link with the actual path to your SQL query image.*
 
 ### Customer Retention Dashboard
 
